@@ -1,3 +1,7 @@
 [Xiker Sanchez] - [2025/03/11]
+<<<<<<< HEAD
 Fitxategia eguneratzen
 Fitxategiaren amaiera
+=======
+Fitxategia eguneratuta
+>>>>>>> 16b27ca (Fitxategia eguneratuta langileaA adarrean)
